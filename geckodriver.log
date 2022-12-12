@@ -1,0 +1,386 @@
+1670751324606	geckodriver	INFO	Listening on 127.0.0.1:63505
+1670751327673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileu7zPMf"
+1670751328019	Marionette	INFO	Marionette enabled
+1670751328025	Marionette	INFO	Listening on port 63535
+WebDriver BiDi listening on ws://127.0.0.1:63506
+Read port: 63535
+1670751328297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileu7zPMf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63506/devtools/browser/4540ef51-d980-4e00-a341-41e5da1652b7
+1670751340806	Marionette	INFO	Stopped listening on port 63535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670752284764	geckodriver	INFO	Listening on 127.0.0.1:64628
+1670752287815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileYenuF6"
+1670752288214	Marionette	INFO	Marionette enabled
+1670752288220	Marionette	INFO	Listening on port 64640
+Read port: 64640
+WebDriver BiDi listening on ws://127.0.0.1:64629
+1670752288326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileYenuF6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64629/devtools/browser/707bcc12-1c22-468c-b0c4-d0ec2279280b
+1670752436738	Marionette	INFO	Stopped listening on port 64640
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670752800087	geckodriver	INFO	Listening on 127.0.0.1:65483
+1670752803142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile6deWR8"
+1670752803455	Marionette	INFO	Marionette enabled
+1670752803460	Marionette	INFO	Listening on port 65496
+Read port: 65496
+WebDriver BiDi listening on ws://127.0.0.1:65484
+1670752803568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile6deWR8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65484/devtools/browser/d734fe2f-cd79-4fb0-b264-1aa8429376a7
+1670752985789	geckodriver	INFO	Listening on 127.0.0.1:49704
+1670752988841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilebj7BtC"
+1670752989162	Marionette	INFO	Marionette enabled
+1670752989167	Marionette	INFO	Listening on port 49724
+WebDriver BiDi listening on ws://127.0.0.1:49705
+Read port: 49724
+1670752989412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilebj7BtC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49705/devtools/browser/6e584e1d-b1ba-4142-8a25-3efe093a5423
+1670753446340	geckodriver	INFO	Listening on 127.0.0.1:50568
+1670753449417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileMfuje7"
+1670753449726	Marionette	INFO	Marionette enabled
+1670753449730	Marionette	INFO	Listening on port 50581
+Read port: 50581
+WebDriver BiDi listening on ws://127.0.0.1:50569
+1670753449836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileMfuje7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50569/devtools/browser/71aa9dab-60b0-4544-a2cc-d26967e8f65a
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1670753544537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexHZW8V"
+1670753544870	Marionette	INFO	Marionette enabled
+1670753544876	Marionette	INFO	Listening on port 50775
+Read port: 50775
+WebDriver BiDi listening on ws://127.0.0.1:50761
+1670753544975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670753607876	geckodriver	INFO	Listening on 127.0.0.1:50879
+1670753610919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilePHRrdA"
+1670753611223	Marionette	INFO	Marionette enabled
+1670753611228	Marionette	INFO	Listening on port 50896
+Read port: 50896
+WebDriver BiDi listening on ws://127.0.0.1:50880
+1670753611337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilePHRrdA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50880/devtools/browser/0f32a260-f509-409b-9ba9-6f2f0bb3ad6e
+1670753755054	Marionette	INFO	Stopped listening on port 50896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670753757026	geckodriver	INFO	Listening on 127.0.0.1:51156
+1670753760064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileuTMu5M"
+1670753760402	Marionette	INFO	Marionette enabled
+1670753760407	Marionette	INFO	Listening on port 51171
+WebDriver BiDi listening on ws://127.0.0.1:51157
+Read port: 51171
+1670753760704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileuTMu5M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51157/devtools/browser/88c05c6c-1182-4109-897b-d97bccd063e1
+1670753822308	Marionette	INFO	Stopped listening on port 51171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670753998399	geckodriver	INFO	Listening on 127.0.0.1:51587
+1670754001458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile4kJ4fd"
+1670754002172	Marionette	INFO	Marionette enabled
+1670754002181	Marionette	INFO	Listening on port 51603
+Read port: 51603
+WebDriver BiDi listening on ws://127.0.0.1:51588
+1670754002304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile4kJ4fd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51588/devtools/browser/60afc1db-1185-4fa4-9561-78aec21ab519
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670754020634	Marionette	INFO	Stopped listening on port 51603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670754023847	geckodriver	INFO	Listening on 127.0.0.1:51668
+1670754026878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileIkjU2b"
+1670754027194	Marionette	INFO	Marionette enabled
+1670754027199	Marionette	INFO	Listening on port 51685
+Read port: 51685
+WebDriver BiDi listening on ws://127.0.0.1:51669
+1670754027298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileIkjU2b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51669/devtools/browser/53774cae-fc9f-4378-b7d4-7baaf915791f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670754043217	Marionette	INFO	Stopped listening on port 51685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670766521256	geckodriver	INFO	Listening on 127.0.0.1:62901
+1670766524309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileciZulB"
+1670766524879	Marionette	INFO	Marionette enabled
+1670766524887	Marionette	INFO	Listening on port 62917
+WebDriver BiDi listening on ws://127.0.0.1:62902
+Read port: 62917
+1670766525168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileciZulB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62902/devtools/browser/9889afa7-a234-4e90-acfc-dd84e39e43de
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670766755288	Marionette	INFO	Stopped listening on port 62917
+1670766757424	geckodriver	INFO	Listening on 127.0.0.1:63182
+1670766760464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilesJsNNL"
+1670766760787	Marionette	INFO	Marionette enabled
+1670766760793	Marionette	INFO	Listening on port 63194
+WebDriver BiDi listening on ws://127.0.0.1:63183
+Read port: 63194
+1670766761100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilesJsNNL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63183/devtools/browser/58dd6c4d-4a97-4fc7-9cae-1157941d1a2b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670766842076	geckodriver	INFO	Listening on 127.0.0.1:63307
+1670766845117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilegImTje"
+1670766845458	Marionette	INFO	Marionette enabled
+1670766845464	Marionette	INFO	Listening on port 63325
+WebDriver BiDi listening on ws://127.0.0.1:63308
+Read port: 63325
+1670766845762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilegImTje\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63308/devtools/browser/b957436b-84cc-499f-9dd7-8eebd1881f28
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670766914154	Marionette	INFO	Stopped listening on port 63325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670766916385	geckodriver	INFO	Listening on 127.0.0.1:63439
+1670766919465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilehZHCV4"
+1670766919780	Marionette	INFO	Marionette enabled
+1670766919785	Marionette	INFO	Listening on port 63454
+Read port: 63454
+WebDriver BiDi listening on ws://127.0.0.1:63440
+1670766919878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilehZHCV4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63440/devtools/browser/df1d6984-546f-4cb3-9438-26374eff18e7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://sandbox.moodledemo.net/lib/requirejs.php/1670760069/core_form/events.js, line 903: TypeError: responses is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670767314171	Marionette	INFO	Stopped listening on port 63454
+1670775806369	geckodriver	INFO	Listening on 127.0.0.1:53514
+1670775809415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilergBXTS"
+1670775809770	Marionette	INFO	Marionette enabled
+1670775809776	Marionette	INFO	Listening on port 53527
+WebDriver BiDi listening on ws://127.0.0.1:53515
+Read port: 53527
+1670775810064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilergBXTS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/e9f617dc-bec2-477d-b395-1bece6bd7377
+1670775822428	Marionette	INFO	Stopped listening on port 53527
+[Parent 17988, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670775882321	geckodriver	INFO	Listening on 127.0.0.1:53674
+1670775885357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileHHxKtH"
+1670775885704	Marionette	INFO	Marionette enabled
+1670775885710	Marionette	INFO	Listening on port 53693
+WebDriver BiDi listening on ws://127.0.0.1:53675
+Read port: 53693
+1670775885996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileHHxKtH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53675/devtools/browser/6b434dd0-c10b-4bf5-b73f-6c6ed0c59002
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670775933791	Marionette	INFO	Stopped listening on port 53693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670775942722	geckodriver	INFO	Listening on 127.0.0.1:53833
+1670775945768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilew6dfcw"
+1670775946084	Marionette	INFO	Marionette enabled
+1670775946089	Marionette	INFO	Listening on port 53848
+Read port: 53848
+WebDriver BiDi listening on ws://127.0.0.1:53834
+1670775946198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilew6dfcw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53834/devtools/browser/4d27a047-8a4c-4833-99ce-beb24dc37803
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670776141820	Marionette	INFO	Stopped listening on port 53848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670776147011	geckodriver	INFO	Listening on 127.0.0.1:54287
+1670776150051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexEOL54"
+1670776150393	Marionette	INFO	Marionette enabled
+1670776150399	Marionette	INFO	Listening on port 54306
+WebDriver BiDi listening on ws://127.0.0.1:54288
+Read port: 54306
+1670776150701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexEOL54\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54288/devtools/browser/a63885a0-2d2b-49e6-b059-4f4f5749297a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670776250301	Marionette	INFO	Stopped listening on port 54306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670776252399	geckodriver	INFO	Listening on 127.0.0.1:54527
+1670776255440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexckKM1"
+1670776255783	Marionette	INFO	Marionette enabled
+1670776255790	Marionette	INFO	Listening on port 54547
+WebDriver BiDi listening on ws://127.0.0.1:54528
+Read port: 54547
+1670776256118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexckKM1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54528/devtools/browser/ebf45639-deea-4b87-b3c1-23b71c92b032
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670776809990	Marionette	INFO	Stopped listening on port 54547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileCSONNR"
+1670776345967	Marionette	INFO	Marionette enabled
+1670776345973	Marionette	INFO	Listening on port 54750
+WebDriver BiDi listening on ws://127.0.0.1:54727
+Read port: 54750
+1670776346258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileCSONNR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54727/devtools/browser/19dbda7a-53b6-4baa-be10-8789537f0fbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670776814191	Marionette	INFO	Stopped listening on port 54750
+e-debugging-port" "55027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile5AhWqs"
+1670776483482	Marionette	INFO	Marionette enabled
+1670776483490	Marionette	INFO	Listening on port 55045
+Read port: 55045
+WebDriver BiDi listening on ws://127.0.0.1:55027
+1670776483625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile5AhWqs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55027/devtools/browser/58d50fe6-698a-4072-9410-26a24f6167c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670776815293	Marionette	INFO	Stopped listening on port 55045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile5Jgyat"
+1670776616038	Marionette	INFO	Marionette enabled
+1670776616045	Marionette	INFO	Listening on port 55324
+Read port: 55324
+WebDriver BiDi listening on ws://127.0.0.1:55310
+1670776616171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile5Jgyat\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55310/devtools/browser/bfa2455c-484e-4504-a853-55f6de05d812
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670776816733	Marionette	INFO	Stopped listening on port 55324
+e-debugging-port" "55729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile0sNsQ8"
+1670776809655	Marionette	INFO	Marionette enabled
+1670776809664	Marionette	INFO	Listening on port 55748
+Read port: 55748
+WebDriver BiDi listening on ws://127.0.0.1:55729
+1670776809826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile0sNsQ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55729/devtools/browser/dda7aaf6-cb9e-4724-9d84-7091adbf505f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670776938783	Marionette	INFO	Stopped listening on port 55748
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileR8l5DF"
+1670776923738	Marionette	INFO	Marionette enabled
+1670776923746	Marionette	INFO	Listening on port 55939
+WebDriver BiDi listening on ws://127.0.0.1:55926
+Read port: 55939
+1670776924045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileR8l5DF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55926/devtools/browser/ed7fd77e-b443-41e1-9974-86e763727617
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670777013596	Marionette	INFO	Stopped listening on port 55939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670777015517	geckodriver	INFO	Listening on 127.0.0.1:56086
+1670777018544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilevJsyoH"
+1670777018870	Marionette	INFO	Marionette enabled
+1670777018876	Marionette	INFO	Listening on port 56097
+Read port: 56097
+WebDriver BiDi listening on ws://127.0.0.1:56087
+1670777018988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilevJsyoH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56087/devtools/browser/d07e3293-c832-4168-94e6-9f7d0508ecad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967303"
+console.error: "Unable to find target with innerWindowId:4294967303"
+console.error: "Unable to find target with innerWindowId:4294967304"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://sandbox.moodledemo.net/lib/javascript.php/1670774459/lib/requirejs/require.min.js, line 5: Error: Script error for "core_form/events"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://sandbox.moodledemo.net/lib/javascript.php/1670774459/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+2022-12-11T17:37:57.144ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.146ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:37:57.147ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.147ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:37:57.147ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.147ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:37:57.147ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.147ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:37:57.147ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.147ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:37:57.147ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:37:57.147ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.450ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.450ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.450ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.450ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.450ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.450ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.489ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.489ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.489ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.489ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:38.489ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:38.489ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.389ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.389ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.390ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.390ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.390ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.390ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.393ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.393ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.393ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.393ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:45.393ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:45.393ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.863ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.863ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.863ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.863ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.863ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.863ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.866ZE [19544:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.866ZE [19544:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.866ZE [20628:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.866ZE [20628:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:38:49.866ZE [7052:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:38:49.866ZE [7052:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+1670781141280	geckodriver	INFO	Listening on 127.0.0.1:63161
+1670781144333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileLy3Dbb"
+1670781144768	Marionette	INFO	Marionette enabled
+1670781144776	Marionette	INFO	Listening on port 63178
+WebDriver BiDi listening on ws://127.0.0.1:63162
+Read port: 63178
+1670781145121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileLy3Dbb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63162/devtools/browser/e9c0d4d8-bb68-40a9-927e-517e3027a3f3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+2022-12-11T17:53:08.776ZE [5880:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.778ZE [5880:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:53:08.778ZE [18688:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.778ZE [18688:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:53:08.778ZE [21340:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.778ZE [21340:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:53:08.779ZE [5880:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.779ZE [5880:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:53:08.779ZE [18688:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.779ZE [18688:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+2022-12-11T17:53:08.779ZE [21340:ShellIpcClient] shell_ipc_client.cc:129:Connect Can't connect to socket at: \\.\Pipe\GoogleDriveFSPipe_RV_shell
+2022-12-11T17:53:08.779ZE [21340:ShellIpcClient] shell_ipc_client.cc:602:operator() Failed to connect to the server: Status::UNAVAILABLE_RESOURCE
+1670781236988	geckodriver	INFO	Listening on 127.0.0.1:63369
+1670781240041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileBMkNZK"
+1670781240413	Marionette	INFO	Marionette enabled
+1670781240419	Marionette	INFO	Listening on port 63386
+Read port: 63386
+WebDriver BiDi listening on ws://127.0.0.1:63370
+1670781240538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileBMkNZK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63370/devtools/browser/9751394c-314f-4426-a617-2de31d1c5810
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri

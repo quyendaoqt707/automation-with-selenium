@@ -1,0 +1,71 @@
+{
+  "id": "84a285d6-10c1-4c64-89b6-a146d2251245",
+  "version": "2.0",
+  "name": "testing",
+  "url": "https://sandbox.moodledemo.net",
+  "tests": [{
+    "id": "3da4c34c-ef69-4149-84ea-4cc0c2a7088a",
+    "name": "testcase1",
+    "commands": [{
+      "id": "b0b87228-2ac8-4c45-8f40-14d1717cdad3",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d932d49c-ed9f-49a3-b913-183ca4486566",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "990x549",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5945685d-ce68-4cbd-831e-d859062cffa8",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Seminario de Titulacin",
+      "targets": [
+        ["linkText=Seminario de Titulacin", "linkText"],
+        ["css=.first .aalink", "css:finder"],
+        ["xpath=//a[contains(text(),'Seminario de Titulacin')]", "xpath:link"],
+        ["xpath=//div[@id='frontpage-available-course-list']/div/div/div/h3/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://sandbox.moodledemo.net/course/view.php?id=26')]", "xpath:href"],
+        ["xpath=//h3/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Seminario de Titulacin')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f28250c1-b080-470d-89a8-2a32581508bd",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0286d8a1-95c9-4a26-9d86-5abea475890f",
+      "comment": "",
+      "command": "click",
+      "target": "id=single_button6382541ee3a837",
+      "targets": [
+        ["id=single_button6382541ee3a837", "id"],
+        ["css=#single_button6382541ee3a837", "css:finder"],
+        ["xpath=//button[@id='single_button6382541ee3a837']", "xpath:attributes"],
+        ["xpath=//section[@id='region-main']/div/div[3]/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continue')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "9f4f7787-2528-4258-9a49-a7882e21c3c2",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3da4c34c-ef69-4149-84ea-4cc0c2a7088a"]
+  }],
+  "urls": ["https://sandbox.moodledemo.net/"],
+  "plugins": []
+}

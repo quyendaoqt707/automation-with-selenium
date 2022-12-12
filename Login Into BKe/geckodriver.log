@@ -1,0 +1,476 @@
+1670857298494	geckodriver	INFO	Listening on 127.0.0.1:62780
+1670857301553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileAyfQH4"
+1670857302005	Marionette	INFO	Marionette enabled
+1670857302011	Marionette	INFO	Listening on port 62800
+WebDriver BiDi listening on ws://127.0.0.1:62781
+Read port: 62800
+1670857302298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileAyfQH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62781/devtools/browser/9e97aa36-6cca-451c-8c64-a29f3c02fc09
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670857331022	Marionette	INFO	Stopped listening on port 62800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670857552932	geckodriver	INFO	Listening on 127.0.0.1:63287
+1670857555987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilesbou20"
+1670857556931	Marionette	INFO	Marionette enabled
+1670857556936	Marionette	INFO	Listening on port 63305
+Read port: 63305
+WebDriver BiDi listening on ws://127.0.0.1:63288
+1670857557035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilesbou20\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63288/devtools/browser/5af9eeac-4330-41be-b646-3e2229a389b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670857685570	Marionette	INFO	Stopped listening on port 63305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileQWNAyd"
+1670857629342	Marionette	INFO	Marionette enabled
+1670857629347	Marionette	INFO	Listening on port 63467
+WebDriver BiDi listening on ws://127.0.0.1:63453
+Read port: 63467
+1670857629680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileQWNAyd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63453/devtools/browser/480d24a5-daca-4cae-996d-877b4d8966b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670857686709	Marionette	INFO	Stopped listening on port 63467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670857933462	geckodriver	INFO	Listening on 127.0.0.1:63897
+1670857936514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileflagMZ"
+1670857936875	Marionette	INFO	Marionette enabled
+1670857936881	Marionette	INFO	Listening on port 63911
+Read port: 63911
+WebDriver BiDi listening on ws://127.0.0.1:63898
+1670857937030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileflagMZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63898/devtools/browser/84c143f8-af4a-4631-9ea4-6f6ce3801fe1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670857950599	Marionette	INFO	Stopped listening on port 63911
+1670857957849	geckodriver	INFO	Listening on 127.0.0.1:63970
+1670857960863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile1HHm1i"
+1670857961302	Marionette	INFO	Marionette enabled
+1670857961311	Marionette	INFO	Listening on port 63986
+Read port: 63986
+WebDriver BiDi listening on ws://127.0.0.1:63971
+1670857961425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile1HHm1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63971/devtools/browser/178640ed-90d7-4c2d-a020-3700c3a90729
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670857973469	Marionette	INFO	Stopped listening on port 63986
+1670858575443	geckodriver	INFO	Listening on 127.0.0.1:64782
+1670858578493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile2FMoY8"
+1670858578821	Marionette	INFO	Marionette enabled
+1670858578827	Marionette	INFO	Listening on port 64800
+WebDriver BiDi listening on ws://127.0.0.1:64783
+Read port: 64800
+1670858579224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofile2FMoY8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64783/devtools/browser/609d9296-ddb6-47a7-bc83-d1c4349d0471
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670858589941	Marionette	INFO	Stopped listening on port 64800
+1670858597127	geckodriver	INFO	Listening on 127.0.0.1:64855
+1670858600166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileUiYA51"
+1670858600564	Marionette	INFO	Marionette enabled
+1670858600570	Marionette	INFO	Listening on port 64867
+Read port: 64867
+WebDriver BiDi listening on ws://127.0.0.1:64856
+1670858600683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileUiYA51\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64856/devtools/browser/715b379e-de0a-4323-ba50-a5bbf4a36ace
+1670858616787	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670858617990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670858618442	Marionette	INFO	Stopped listening on port 64867
+1670858746854	geckodriver	INFO	Listening on 127.0.0.1:65077
+1670858749918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexbBnaH"
+1670858750272	Marionette	INFO	Marionette enabled
+1670858750280	Marionette	INFO	Listening on port 65094
+Read port: 65094
+WebDriver BiDi listening on ws://127.0.0.1:65078
+1670858750431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilexbBnaH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65078/devtools/browser/dfecd92e-7024-4c0b-aa84-5495a53d4d85
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670858768536	Marionette	INFO	Stopped listening on port 65094
+1670858775719	geckodriver	INFO	Listening on 127.0.0.1:65156
+1670858778756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileFPf9dd"
+1670858779063	Marionette	INFO	Marionette enabled
+1670858779069	Marionette	INFO	Listening on port 65166
+Read port: 65166
+WebDriver BiDi listening on ws://127.0.0.1:65157
+1670858779183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileFPf9dd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65157/devtools/browser/cb05207f-bf2d-4519-bee6-895b3498a5e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670858790985	Marionette	INFO	Stopped listening on port 65166
+1670859748113	geckodriver	INFO	Listening on 127.0.0.1:50386
+1670859751142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileBSclnj"
+1670859751471	Marionette	INFO	Marionette enabled
+1670859751475	Marionette	INFO	Listening on port 50402
+WebDriver BiDi listening on ws://127.0.0.1:50387
+Read port: 50402
+1670859751727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileBSclnj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50387/devtools/browser/d99061a6-f9e2-462d-8360-6883321bac01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670860953556	Marionette	INFO	Stopped listening on port 50402
+e-debugging-port" "50833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilek4hXJr"
+1670859973292	Marionette	INFO	Marionette enabled
+1670859973304	Marionette	INFO	Listening on port 50850
+WebDriver BiDi listening on ws://127.0.0.1:50833
+Read port: 50850
+1670859973555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilek4hXJr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50833/devtools/browser/27f61da7-f836-4d27-86d7-45c0e8d1ba33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670860956835	Marionette	INFO	Stopped listening on port 50850
+[Parent 16004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rust_mozprofileKUtrBh"
+1670860338926	Marionette	INFO	Marionette enabled
+1670860338931	Marionette	INFO	Listening on port 51500
+Read port: 51500
+WebDriver BiDi listening on ws://127.0.0.1:51486
+1670860339036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileKUtrBh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51486/devtools/browser/d193d304-4edb-48bc-94a9-81c1a8cdc2a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_a1670860952287	Marionette	INFO	Stopped listening on port 49260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+1670860868980	addons.xpi	ERROR	System addon update list erro1670860870784	mozrunner::runner	INFO	Running command: "C:\\PrJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670860955571	Marionette	INFO	Stopped listening on port 51500
+\\rust_mozprofileo4l62L"
+1670860871095	Marionette	INFO	Marionette enabled
+1670860871101	Marionette	INFO	Listening on port 56748
+Read port: 56748
+WebDriver BiDi listening on ws://127.0.0.1:56733
+1670860871228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileo4l62L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56733/devtools/browser/fe602c63-7077-4108-9bc5-10f19e493615
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670860955018	Marionette	INFO	Stopped listening on port 56748
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670861090726	geckodriver	INFO	Listening on 127.0.0.1:57683
+1670861093771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileMQPk62"
+1670861094147	Marionette	INFO	Marionette enabled
+1670861094153	Marionette	INFO	Listening on port 57701
+Read port: 57701
+WebDriver BiDi listening on ws://127.0.0.1:57684
+1670861094283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileMQPk62\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57684/devtools/browser/5849d77e-39f0-46d6-aa82-376e57f869c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670862081915	Marionette	INFO	Stopped listening on port 57701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileOo6ZYG"
+1670861235585	Marionette	INFO	Marionette enabled
+1670861235591	Marionette	INFO	Listening on port 57932
+Read port: 57932
+WebDriver BiDi listening on ws://127.0.0.1:57920
+1670861235694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileOo6ZYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57920/devtools/browser/b2ff4405-720c-48fc-b19e-79c67a161aa2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670862080978	Marionette	INFO	Stopped listening on port 57932
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileAlW0Xg"
+1670861389252	Marionette	INFO	Marionette enabled
+1670861389257	Marionette	INFO	Listening on port 58155
+Read port: 58155
+WebDriver BiDi listening on ws://127.0.0.1:58145
+1670861389382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileAlW0Xg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58145/devtools/browser/582fae4c-ea0c-4b3d-8146-8d837b263154
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670861410798	Marionette	INFO	Stopped listening on port 58155
+1670861436507	geckodriver	INFO	Listening on 127.0.0.1:58251
+1670861439567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofiledSYdMC"
+1670861439879	Marionette	INFO	Marionette enabled
+1670861439883	Marionette	INFO	Listening on port 58266
+Read port: 58266
+WebDriver BiDi listening on ws://127.0.0.1:58252
+1670861439987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofiledSYdMC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58252/devtools/browser/2549df87-7c7d-416f-82ea-bb91179560b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670862080080	Marionette	INFO	Stopped listening on port 58266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilerRL988"
+1670861543327	Marionette	INFO	Marionette enabled
+1670861543332	Marionette	INFO	Listening on port 58449
+WebDriver BiDi listening on ws://127.0.0.1:58435
+Read port: 58449
+1670861543598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilerRL988\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58435/devtools/browser/d5f60aa9-91bd-4107-bb18-cb58fed6fb4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: https://sandbox.moodledemo.net/lib/javascript.php/1670857264/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://sandbox.moodledemo.net/lib/javascript.php/1670857264/lib/requirejs/require.min.js, line 5: Error: Script error for "core_form/events"
+http://requirejs.org/docs/errors.html#scripterror
+1670862078109	Marionette	INFO	Stopped listening on port 58449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilejlQJ6e"
+1670861765623	Marionette	INFO	Marionette enabled
+1670861765629	Marionette	INFO	Listening on port 58859
+WebDriver BiDi listening on ws://127.0.0.1:58846
+Read port: 58859
+1670861765869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofilejlQJ6e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58846/devtools/browser/58338b26-2973-45f1-acf3-39015d6db46e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670862079170	Marionette	INFO	Stopped listening on port 58859
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofileQFR1xj"
+1670861911208	Marionette	INFO	Marionette enabled
+1670861911214	Marionette	INFO	Listening on port 59159
+Read port: 59159
+WebDriver BiDi listening on ws://127.0.0.1:59148
+1670861911338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RV\\AppData\\Local\\Temp\\rust_mozprofileQFR1xj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59148/devtools/browser/a88faaf9-d49f-4015-ac1a-4c3188b5ce27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670862075466	Marionette	INFO	Stopped listening on port 59159

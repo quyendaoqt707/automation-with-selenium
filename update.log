@@ -1,0 +1,7 @@
+driver.find_element_by_link_text(u"Đăng nhập").click()
+driver.find_element("link text", u"Đăng nhập").click()
+
+driver.find_element_by_id("username").click()
+driver.find_element("id","username").click()
+
+
