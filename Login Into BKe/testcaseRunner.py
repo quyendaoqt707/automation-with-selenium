@@ -41,8 +41,11 @@ def runTestcase(driver, username, password, expected ):
     #     driver.quit()
     # WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH,"//*[contains(text(), 'Welcome back')]")))
     # expected='Welcome back'
-    WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH,"//*[contains(text(), '"+expected+"')]")))
-    driver.quit()
+    try:
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH,"//*[contains(text(), '"+expected+"')]")))
+    finally:
+        time.sleep(3)
+        driver.quit()
     # driver.find_element(By.XPATH,"//*[contains(text(), 'Welcome back')]")
 
 class AppDynamicsJob(unittest.TestCase):
@@ -50,14 +53,15 @@ class AppDynamicsJob(unittest.TestCase):
         # AppDynamics will automatically override this web driver
         # as documented in https://docs.appdynamics.com/display/PRO44/Write+Your+First+Script
 
-        options = FirefoxOptions()
-        options.set_preference('intl.accept_languages', 'en-us')
-        self.driver = webdriver.Firefox(options=options)
+        # options = FirefoxOptions()
+        # options.set_preference('intl.accept_languages', 'en-us')
+        # self.driver = webdriver.Firefox(options=options)
 
 
-        # options = ChromeOptions()
-        # options.add_experimental_option("detach", True)
-        # self.driver = webdriver.Chrome(options=options)
+        options = ChromeOptions()
+        options.add_experimental_option("detach", True)
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        self.driver = webdriver.Chrome(options=options)
 
         self.driver.implicitly_wait(5)
         self.base_url = "https://www.google.com/"
@@ -65,35 +69,35 @@ class AppDynamicsJob(unittest.TestCase):
         self.accept_next_alert = True
 
         self.excel_file = openpyxl.load_workbook('testcase_input.xlsx').active
-    # def testcase_1(self):
-    #     username=self.excel_file.cell(row=2, column=2).value
-    #     password=self.excel_file.cell(row=2, column=3).value
-    #     expected = self.excel_file.cell(row=2, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_1(self):
+        username=self.excel_file.cell(row=2, column=2).value
+        password=self.excel_file.cell(row=2, column=3).value
+        expected = self.excel_file.cell(row=2, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
-    # def testcase_2(self):
-    #     username=self.excel_file.cell(row=3, column=2).value
-    #     password=self.excel_file.cell(row=3, column=3).value
-    #     expected = self.excel_file.cell(row=3, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_2(self):
+        username=self.excel_file.cell(row=3, column=2).value
+        password=self.excel_file.cell(row=3, column=3).value
+        expected = self.excel_file.cell(row=3, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
-    # def testcase_3(self):
-    #     username=self.excel_file.cell(row=4, column=2).value
-    #     password=self.excel_file.cell(row=4, column=3).value
-    #     expected = self.excel_file.cell(row=4, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_3(self):
+        username=self.excel_file.cell(row=4, column=2).value
+        password=self.excel_file.cell(row=4, column=3).value
+        expected = self.excel_file.cell(row=4, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
-    # def testcase_4(self):
-    #     username=self.excel_file.cell(row=5, column=2).value
-    #     password=self.excel_file.cell(row=5, column=3).value
-    #     expected = self.excel_file.cell(row=5, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_4(self):
+        username=self.excel_file.cell(row=5, column=2).value
+        password=self.excel_file.cell(row=5, column=3).value
+        expected = self.excel_file.cell(row=5, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
-    # def testcase_5(self):
-    #     username=self.excel_file.cell(row=6, column=2).value
-    #     password=self.excel_file.cell(row=6, column=3).value
-    #     expected = self.excel_file.cell(row=6, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_5(self):
+        username=self.excel_file.cell(row=6, column=2).value
+        password=self.excel_file.cell(row=6, column=3).value
+        expected = self.excel_file.cell(row=6, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
     def testcase_6(self):
         username=self.excel_file.cell(row=7, column=2).value
@@ -108,17 +112,17 @@ class AppDynamicsJob(unittest.TestCase):
         expected = self.excel_file.cell(row=8, column=4).value
         runTestcase(self.driver, username, password, expected)
 
-    # def testcase_8(self):
-    #     username=self.excel_file.cell(row=9, column=2).value
-    #     password=self.excel_file.cell(row=9, column=3).value
-    #     expected = self.excel_file.cell(row=9, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_8(self):
+        username=self.excel_file.cell(row=9, column=2).value
+        password=self.excel_file.cell(row=9, column=3).value
+        expected = self.excel_file.cell(row=9, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
-    # def testcase_9(self):
-    #     username=self.excel_file.cell(row=10, column=2).value
-    #     password=self.excel_file.cell(row=10, column=3).value
-    #     expected = self.excel_file.cell(row=10, column=4).value
-    #     runTestcase(self.driver, username, password, expected)
+    def testcase_9(self):
+        username=self.excel_file.cell(row=10, column=2).value
+        password=self.excel_file.cell(row=10, column=3).value
+        expected = self.excel_file.cell(row=10, column=4).value
+        runTestcase(self.driver, username, password, expected)
 
     
     def is_element_present(self, how, what):
